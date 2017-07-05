@@ -10,12 +10,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         int c;
-        int p;
-        int a;
-        int d;
-        int aa;
-        int f;
-        int s;
+
 
 
     }
