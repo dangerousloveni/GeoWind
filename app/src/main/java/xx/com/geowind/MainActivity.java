@@ -13,7 +13,13 @@ public class MainActivity extends AppCompatActivity {
         int p;
         int a;
         int d;
+
         int aa;
+
+        int b;
+        int o;
+        int ppp;
+
 
 
     }
